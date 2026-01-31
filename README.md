@@ -3,6 +3,8 @@
 A complete **2D platformer game** built with **Unity**.  
 This repository includes the full Unity project with scenes, scripts, sprites, animations, audio, prefabs, and project settings.
 
+<img width="828" height="464" alt="image" src="https://github.com/user-attachments/assets/363a26da-c021-4a2c-91a7-82117725c4ed" />
+
 ---
 
 ## ✨ Features
