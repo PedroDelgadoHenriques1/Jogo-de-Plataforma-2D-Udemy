@@ -1,9 +1,62 @@
-<h2>Crie um Jogo de Plataforma 2D na Unity [Curso Udemy]</h2>
-Nesse repositório você encontra o projeto (com todos os arquivos) do nosso Curso "Unity: Crie um Jogo de Plataforma 2D", publicado na Udemy.
-<br>
-Espero que se divirta bastante e aprenda diversas coisas novas com ele :)
-<br>
-Para acessar o curso, <a href="https://www.udemy.com/course/unity-crie-um-jogo-de-plataforma-2d/?referralCode=43A6B0F606DF6F9EB5DC">clique aqui</a>
-<br>
+# 🎮 2D Platformer Game (Unity)
 
-<a href="https://www.udemy.com/course/unity-crie-um-jogo-de-plataforma-2d/?referralCode=43A6B0F606DF6F9EB5DC">![jogo-de-plataforma-2d-miniatuta-youtube-01](https://user-images.githubusercontent.com/102618272/200945139-3e0fe1e0-edf9-4a57-b05e-4eedf75944e1.png)>/a>
+A complete **2D platformer game** built with **Unity**.  
+This repository includes the full Unity project with scenes, scripts, sprites, animations, audio, prefabs, and project settings.
+
+> **Project folder:** `Jogo-de-Plataforma-2D-Udemy/`
+
+---
+
+## ✨ Features
+
+- Responsive **player movement** (run, jump, wall slide)
+- Multiple **levels** + main menu
+- **Collectibles** (fruits)
+- **Enemies** (bat and bird)
+- **Hazards & traps** (spikes, saw, trap platform, spring)
+- **Sound effects** and background music
+- Simple **UI** (play, back, credits, close)
+
+---
+
+## 🛠 Built With
+
+- **Unity**
+- **C#**
+- Unity 2D tools (Animations, Physics2D, Prefabs)
+
+---
+
+## 📁 Project Structure
+
+Main folders:
+
+- `Assets/` — game content (scenes, scripts, sprites, animations, audio, prefabs, UI)
+- `Packages/` — Unity package manifest and lock file
+- `ProjectSettings/` — Unity project configuration
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <REPO_URL>
+
+2. Open Unity Hub
+
+3. Click Open (or Add) and select:
+
+Jogo-de-Plataforma-2D-Udemy/
+
+
+4. Open a scene from:
+
+Assets/Scenes/
+
+
+Suggested starting scene:
+
+Menu.unity
+
+5. Press Play ▶️
