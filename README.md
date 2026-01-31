@@ -3,8 +3,6 @@
 A complete **2D platformer game** built with **Unity**.  
 This repository includes the full Unity project with scenes, scripts, sprites, animations, audio, prefabs, and project settings.
 
-> **Project folder:** `Jogo-de-Plataforma-2D-Udemy/`
-
 ---
 
 ## ✨ Features
