@@ -50,13 +50,3 @@ Main folders:
 Jogo-de-Plataforma-2D-Udemy/
 
 
-4. Open a scene from:
-
-Assets/Scenes/
-
-
-Suggested starting scene:
-
-Menu.unity
-
-5. Press Play ▶️
